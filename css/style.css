@@ -72,6 +72,13 @@ html, body {
   margin-top: 10px;
   margin-left: 350px;
 }
+.login-submit {
+  margin-top: 10px;
+  margin-right: 10px;
+  position: fixed;
+  right: 10px;
+  top:10px;
+}
 .progress {
   display: none;
   background: rgba(0,0,0,0.50);
